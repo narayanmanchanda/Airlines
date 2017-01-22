@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+#maindiv
+{
+margin:0 0 0 0;
+padding:0 0 0 0;
+background-image:url(../img/6771569-awesome-airport-wallpaper.jpg);
+}
+
+#header
+{
+background-image:url(../img/IMG_5388b.jpg);
+text-align:center;
+font-size:25px;
+height:100px;
+}
+#header a
+{
+font-size:20px;
+margin-left:1023px;
+position:relative;
+margin-top:-343px;
+}
+#header #login
+{
+margin-top:-100px;
+margin-left:900px;
+}
+#nav 
+{
+height:40px;
+background-color:#FF3399;
+}
+#nav a
+{
+font-size:20px;
+margin-left:50px;
+text-decoration:blink;
+}
+#nav a:hover
+{
+background-color:#CC6699;
+color:white;
+font-size:20px;
+margin-left:50px;
+}
+
+#left
+{
+float:left;
+width:20%;
+height:100%;
+}
+#left img
+{
+margin-top:10px;
+}
+#content
+{
+float:left;
+//background-color:#FFFFCC;
+width:60%;
+height:100%;
+}
+
+#right
+{
+float:left;
+height:100%;
+width:20%;
+}
+#right marquee
+{
+border:thick solid #000000;
+}
+#right img
+{
+margin-top:10px;
+}
+#bottom
+{
+
+//background-color:#666666;
+}
